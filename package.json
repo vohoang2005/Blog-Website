@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  },
+  "name": "blog-website",
+  "description": "Creating a Blog Website",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohoang2005/Blog-Website.git"
+  },
+  "author": "Chuong Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohoang2005/Blog-Website/issues"
+  },
+  "homepage": "https://github.com/vohoang2005/Blog-Website#readme"
+}
